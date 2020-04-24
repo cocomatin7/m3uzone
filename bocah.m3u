@@ -1,0 +1,78 @@
+#EXTM3U
+######################################### BOCAH #################################
+
+#EXTINF:0 tvg-id="DuckTV.day" group-title="BOCAH",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",AniPlus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",Aniplus
+http://rr1.dens.tv/h/h02/index.m3u8
+
+#EXTINF:0 tvg-id="Animax.de" group-title="BOCAH",ANIMAX HD
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+
+#EXTINF:0 tvg-id="Animax.de" group-title="BOCAH",Animax 
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",MIAO MI
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",DISNEY JUNIOR Indo SD
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",DISNEY JUNIOR Indo HD
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w1145871295.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",ANIPLUS HD
+http://210.210.155.35/session/d28e34c0-2f53-11e9-8f4d-b82a72d63267/dr9445/h/h02/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",My kids
+http://210.210.155.35/session/570cce84-a52c-11e9-86e6-b82a72d63267/x6bnqe/s/s113/index.m3u8
+
+#EXTINF:0 tvg-id="NickJunior.uk" group-title="BOCAH",NICK JR
+http://203.207.56.228/live/iptv018.m3u8
+
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="BOCAH",NICKELODEON
+http://203.207.56.228/live/iptv014.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+
+#EXTINF:0 tvg-id="Disney.uk" group-title="BOCAH",Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="BOCAH",Disney XD
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="BOCAH",BOOMERANG
+http://203.207.56.228/live/iptv026.m3u8
+
+#EXTINF:0 tvg-id="BABYFIRST.sp" group-title="BOCAH",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="BOCAH",CARTOON NETWORK
+http://203.207.56.228/live/iptv027.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",KurdMax Papule
+http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="BOCAH",ToonMax
+http://rr2.dens.tv/s/s50/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/ee/DisneyChannel.ee.png" group-title="BOCAH",Disney Channel Indonesia
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968-DisneyChannel-mp4a_98800_ind=9.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/DisneyJunior.uk.png" group-title="BOCAH",Disney Jr Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
